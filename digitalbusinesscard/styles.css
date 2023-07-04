@@ -1,0 +1,33 @@
+
+body{
+    margin: 20px;
+}
+
+.avatar{
+    width: 270px;
+}
+
+.card{
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    background: #ddebf8;
+    border-bottom: 10px solid #d8cefe;
+}
+
+.text{
+    padding-top: 21%;
+    color: #2b2839;
+    font-family: 'Montserrat', sans-serif; /* Montserrat is the name of the font we use out of google font website*/
+}
+
+.italic{
+    font-style: italic;
+}
+
+.border{
+    border: 1px dotted blue;
+}
